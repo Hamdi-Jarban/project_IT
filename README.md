@@ -1,6 +1,6 @@
 # Project IT — Machine Learning & Computer Vision
 
-[العربية](#العربية) | [English](#english)
+
 
 <a id="العربية"></a>
 ## العربية
